@@ -70,6 +70,14 @@ XASSET 5.1为Unity项目提供了可以快速投入到生产环境中使用的�
 - [大魔王有木桑](https://github.com/yomunsam)
 - [suixin567](https://github.com/suixin567)
 - [Sven](https://github.com/SvenCheung)
+- [liufujingwen](https://github.com/liufujingwen)
+
+## 鸣谢
+
+感谢JetBrains公司提供的使用许可证！
+
+<p><a href="https://www.jetbrains.com/?from=NKGMobaBasedOnET ">
+<img src="https://images.gitee.com/uploads/images/2020/0722/084147_cc1c0a4a_2253805.png" alt="JetBrains的Logo" width="20%" height="20%"></a></p>
 
 ## 更多项目
 
